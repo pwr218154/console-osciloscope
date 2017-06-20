@@ -6,7 +6,6 @@ This project is C implementation of console osciloscope using `pthreads` and `nc
 
 # Features
 
- - Reading data from serial port
  - Two channel dispaly in console
 
 # Setup
